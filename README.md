@@ -5,4 +5,4 @@ Cd into project directory, you can run:
 Navigate to http://localhost:3000
 
 
-User can create contact or update or delete contact.
+User can create contact, update or delete contact.
